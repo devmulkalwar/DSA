@@ -23,7 +23,7 @@ void minMaxArray(int array[], int size)
 
 int main()
 {
-    int array[] = {4, 2, 3, 10, 5, 0};
+    int array[] = {4, 11, 3, 10, 5, 0};
 
     minMaxArray(array, sizeof(array) / sizeof(array[0]));
 
