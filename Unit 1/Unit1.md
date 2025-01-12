@@ -1,27 +1,29 @@
 # Unit I: Basic Data Structures in C++
 ---
+
 # Index Table for Unit I: Basic Data Structures in C++
 
-| **Section**               | **Topic**                                         | **Subtopics**                                    | **Page/Section** |
-|---------------------------|---------------------------------------------------|-------------------------------------------------|------------------|
-| **1. Introduction**       | Data Structures                                   | Primitive and Non-Primitive Data Types          | 1.1              |
-|                           |                                                   | Abstract Data Types (ADTs)                     | 1.2              |
-| **2. Arrays**             | Definition of Arrays                              | -                                               | 2.1              |
-|                           | Static and Dynamic Arrays                         | -                                               | 2.2              |
-| **3. Types of Arrays**    | One-Dimensional Arrays                            | -                                               | 3.1              |
-|                           | Two-Dimensional Arrays                            | -                                               | 3.2              |
-|                           | Multi-Dimensional Arrays                          | -                                               | 3.3              |
-| **4. Array Representation** | Memory Representation                          | Row-Major Order                                 | 4.1              |
-|                           |                                                   | Column-Major Order                              | 4.2              |
-| **5. Operations**         | Traversing an Array                               | -                                               | 5.1              |
-|                           | Insertion of Elements in an Array                 | -                                               | 5.2              |
-|                           | Deletion of Elements from an Array                | -                                               | 5.3              |
-|                           | Searching Elements in an Array                    | -                                               | 5.4              |
-| **6. Algorithms**         | Traversing an Array                               | -                                               | 6.1              |
-|                           | Inserting an Element                              | -                                               | 6.2              |
-|                           | Deleting an Element                               | -                                               | 6.3              |
-|                           | Searching an Element                              | -                                               | 6.4              |
+| **Section**               | **Topic**                                         | **Subtopics**                                    | **Page/Section** | **Link**           |
+|---------------------------|---------------------------------------------------|-------------------------------------------------|------------------|--------------------|
+| **1. Introduction**       | Data Structures                                   | Primitive and Non-Primitive Data Types          | 1.1              | [Go to 1.1](#11-primitive-and-non-primitive-data-types) |
+|                           |                                                   | Abstract Data Types (ADTs)                     | 1.2              | [Go to 1.2](#12-abstract-data-types-adts)               |
+| **2. Arrays**             | Definition of Arrays                              | -                                               | 2.1              | [Go to 2.1](#21-definition-of-arrays)                   |
+|                           | Static and Dynamic Arrays                         | -                                               | 2.2              | [Go to 2.2](#22-static-and-dynamic-arrays)              |
+| **3. Types of Arrays**    | One-Dimensional Arrays                            | -                                               | 3.1              | [Go to 3.1](#31-one-dimensional-arrays)                |
+|                           | Two-Dimensional Arrays                            | -                                               | 3.2              | [Go to 3.2](#32-two-dimensional-arrays)                |
+|                           | Multi-Dimensional Arrays                          | -                                               | 3.3              | [Go to 3.3](#33-multi-dimensional-arrays)              |
+| **4. Array Representation** | Memory Representation                          | Row-Major Order                                 | 4.1              | [Go to 4.1](#41-row-major-order)                       |
+|                           |                                                   | Column-Major Order                              | 4.2              | [Go to 4.2](#42-column-major-order)                    |
+| **5. Operations**         | Traversing an Array                               | -                                               | 5.1              | [Go to 5.1](#51-traversing-an-array)                   |
+|                           | Insertion of Elements in an Array                 | -                                               | 5.2              | [Go to 5.2](#52-insertion-of-elements)                 |
+|                           | Deletion of Elements from an Array                | -                                               | 5.3              | [Go to 5.3](#53-deletion-of-elements)                  |
+|                           | Searching Elements in an Array                    | -                                               | 5.4              | [Go to 5.4](#54-searching-elements)                    |
+| **6. Algorithms**         | Traversing an Array                               | -                                               | 6.1              | [Go to 6.1](#61-algorithm-for-traversing-an-array)     |
+|                           | Inserting an Element                              | -                                               | 6.2              | [Go to 6.2](#62-algorithm-for-inserting-an-element)    |
+|                           | Deleting an Element                               | -                                               | 6.3              | [Go to 6.3](#63-algorithm-for-deleting-an-element)     |
+|                           | Searching an Element                              | -                                               | 6.4              | [Go to 6.4](#64-algorithm-for-searching-an-element)    |
 
+---
 
 ## 1. Introduction to Data Structures
 
@@ -110,5 +112,3 @@
 1. Traverse the array.
 2. Compare each element with the target.
 3. Return the index if found.
-
----
